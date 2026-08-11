@@ -40,7 +40,7 @@ Python、FastAPI、OpenCV、PyTorch、ONNX Runtime、PostgreSQL、Docker、GitHu
 
 ### Physical AI / Autonomous 4WD Car — In Progress
 
-松尾・岩澤研究室のPhysical AIプログラムを受講しphisical AI領域を体系的に学んでいます。
+松尾・岩澤研究室のPhysical AIプログラムを受講しphysical AI領域を体系的に学んでいます。
 
 並行してRaspberry Pi 5と4WD車体を用いた自律走行ミニカーの開発を進めています。
 
