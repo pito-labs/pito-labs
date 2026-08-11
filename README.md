@@ -42,10 +42,10 @@ Python、FastAPI、OpenCV、PyTorch、ONNX Runtime、PostgreSQL、Docker、GitHu
 
 松尾・岩澤研究室のPhysical AIプログラムを受講しphysical AI領域を体系的に学んでいます。
 
-並行してRaspberry Pi 5と4WD車体を用いた自律走行ミニカーの開発を進めています。
+並行してRaspberry Pi 5と4WD車体を用いた自律走行ミニカーの開発を進めています。　（一時中断）
 
-画像認識・経路判断ロジックを実装し、Raspberry Pi CameraとOpenCVを用いた小規模な制御ループ、そしてAckermann Steering向けの出力を左右輪の差動駆動へ変換する構成を検討しています。安全性を重視し、モーター制御の抽象化、Mock実装、明示的な走行許可、通信途絶時のWatchdog停止、例外・シグナル受信時の安全停止を含む設計で進めています。
-現在は一時中断中。
+Raspberry Pi CameraとOpenCVを用いた小規模な制御ループで画像認識・経路判断ロジックを実装し、そしてAckermann Steering向けの出力を左右輪の差動駆動へ変換する構成を検討しています。安全性を重視し、モーター制御の抽象化、Mock実装、明示的な走行許可、通信途絶時のWatchdog停止、例外・シグナル受信時の安全停止を含む設計で進めています。
+
 
 ## Public Code / 42 Tokyo Foundations
 
