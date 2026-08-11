@@ -38,7 +38,7 @@ Python、FastAPI、OpenCV、PyTorch、ONNX Runtime、PostgreSQL、Docker、GitHu
 
 従業員の離職データを題材に、EDA、特徴量設計、クラス不均衡を考慮したモデル評価、交差検証、時系列を意識した検証を行いました。予測精度だけで完結させず、モデルの出力をどのような人事施策や意思決定につなげるかまで検討しました。
 
-### Physical AI / Autonomous 4WD Car — In Progress
+### Physical AI / Autonomous 4WD Car
 
 松尾・岩澤研究室のPhysical AIプログラムを受講しphysical AI領域を体系的に学んでいます。
 
